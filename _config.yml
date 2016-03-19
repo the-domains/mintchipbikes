@@ -1,0 +1,28 @@
+name: Mint Chip Bikes
+favicon: null
+layout_spectrum: 0.37300173565745354
+typography_spectrum: 0.3604386367369443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6168749732896686
+  lightness: 0.21234992565587163
+  saturation: 0.6835130883846432
+  rhythmicContrast: 0.6030323165468872
+purpose: []
